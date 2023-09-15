@@ -1,0 +1,28 @@
+{
+  "freebsd": [
+    {
+      "name": "freebsd",
+      "version": "12.4-zfs",
+      "images": [
+        "https://dl.platform-os.org/images/freebsd/freebsd-12.4-zfs-2023-04-22.qcow2",
+        "https://object-storage.public.mtl1.vexxhost.net/swift/v1/1dbafeefbd4f4c80864414a441e72dd2/bsd-cloud-image.org/images/freebsd/12.4/2023-04-22/zfs/freebsd-12.4-zfs-2023-04-22.qcow2"
+      ]
+    },
+    {
+      "name": "freebsd",
+      "version": "13.2-ufs",
+      "images": [
+        "https://dl.platform-os.org/images/freebsd/freebsd-13.2-ufs-2023-04-22.qcow2",
+        "https://object-storage.public.mtl1.vexxhost.net/swift/v1/1dbafeefbd4f4c80864414a441e72dd2/bsd-cloud-image.org/images/freebsd/13.2/2023-04-22/ufs/freebsd-13.2-ufs-2023-04-22.qcow2"
+      ]
+    },
+    {
+      "name": "freebsd",
+      "version": "13.2-zfs",
+      "images": [
+        "https://dl.platform-os.org/images/freebsd/freebsd-13.2-zfs-2023-04-21.qcow2",
+        "https://object-storage.public.mtl1.vexxhost.net/swift/v1/1dbafeefbd4f4c80864414a441e72dd2/bsd-cloud-image.org/images/freebsd/13.2/2023-04-21/zfs/freebsd-13.2-zfs-2023-04-21.qcow2"
+      ]
+    }
+  ]
+}
