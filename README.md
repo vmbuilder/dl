@@ -4,8 +4,15 @@ Nginx/Openresty configuration
 
 ![dl.platform-os.org](screenshot.png)
 
+## Install Nginx
 
-## Checksum
+**Debian**
+
+```
+apt install -y nginx libnginx-mod-http-xslt-filter
+```
+
+## Checksum Images
 
 Verify file's SHA-256 checksum to check there's no malicious actor replacing the file or packets being lost.
 
