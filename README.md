@@ -21,7 +21,7 @@ The command line returns the file's checksum:
 2. Compare the value returned by the command line with the value from the sha256sum.txt
 
 ```
-sha256sum -c checksum.txt
+sha256sum -c checksum.sha256
 ```
 
 The command will return:
