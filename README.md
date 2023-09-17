@@ -2,6 +2,9 @@
 Nginx/Openresty configuration
 
 
+![dl.platform-os.org](screenshot.png)
+
+
 ## Checksum
 
 Verify file's SHA-256 checksum to check there's no malicious actor replacing the file or packets being lost.
