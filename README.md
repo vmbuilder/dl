@@ -36,3 +36,8 @@ or
 CentOS-6-x86_64-GenericCloud-1907.qcow2: FAILED
 sha256sum: WARNING: 1 computed checksum did NOT match
 ```
+
+## Contributors
+
+* Moritz Wilhelmy [@wilhelmy](https://github.com/wilhelmy)
+* Vyacheslav Anzhiganov [@vanzhiganov](https://github.com/vanzhiganov)
