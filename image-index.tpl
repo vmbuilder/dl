@@ -1,0 +1,9 @@
+[centos6.10-1907]
+os_id=centos6.0
+name=CentOS-6-GenericCloud
+file=CentOS-6-x86_64-GenericCloud-1907.qcow2
+arch=x86_64
+revision=1907
+format=qcow2
+size=758382592
+checksum=ab838e012de1fb46a47911736f8d744265eba9e836ef784d8c656054f17e793f27fa75981972504f240587069216e620111fdd8bc289177413c964cb51a00692
