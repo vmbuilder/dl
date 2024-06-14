@@ -6,9 +6,15 @@ Nginx/Openresty configuration
 
 ## Install Nginx
 
+**Rocky**
+
+```shell
+dnf install -y nginx nginx-mod-http-xslt-filter
+```
+
 **Debian**
 
-```
+```shell
 apt install -y nginx libnginx-mod-http-xslt-filter
 ```
 
